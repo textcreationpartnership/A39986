@@ -1,0 +1,1192 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Forms of prayer collected for the private use of a soldier. Imprimatur, Guil Needham. Junij 18. 1687</title>
+         </titleStmt>
+         <extent>Approx. 70 KB of XML-encoded text transcribed from 34 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39986</idno><idno type="EEBO-CITATION">99832839</idno>
+  <idno type="VID">37314</idno>
+  <idno type="EEBO-PROQUEST">2240913622</idno>
+  
+            <idno type="STC">Wing F1584A</idno>
+            <idno type="STC">ESTC R221541</idno>
+            <idno type="PROQUEST">99832839</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99832839e"/>
+            <note>(EEBO-TCP ; phase 2, no. A39986)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37314)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2186:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Forms of prayer collected for the private use of a soldier. Imprimatur, Guil Needham. Junij 18. 1687</title>
+               </titleStmt>
+               <extent>[12], 51, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for H. Bonwicke, at the Red Lyon in St. Paul's Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Copy tightly bound.</note>
+                  <note>Reproduction of the original in the Lambeth Palace Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Prayer --  Early works to 1800.</term>
+               <term type="topical_term">Armed Forces --  Prayer-books and devotions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37314:1"/>
+            <p>FORMS OF PRAYER Collected for the Private USE OF A SOLDIER.</p>
+            <p>Vigilate &amp; Orate.</p>
+            <q>
+               <gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>elius <hi>was a Centurion of the Band cal<g ref="char:EOLhyphen"/>led the</hi> Italian <hi>Band, a devout man, and <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that feared God with all his House, which gave much Alms, and prayed to</hi> God <hi>alway,</hi>
+               <bibl>Acts 10. 1, 2.</bibl>
+            </q>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>
+                           <gap reason="illegible" resp="#murp" extent="4 letters">
+                              <desc>••••</desc>
+                           </gap>IMATUR,</p>
+                        <closer>
+                           <dateline>
+                              <date>
+                                 <gap reason="illegible" resp="#murp" extent="1 word">
+                                    <desc>〈◊〉</desc>
+                                 </gap> 18. 1687.</date>
+                           </dateline>
+                           <signed>Guil. Needham.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON:</hi>
+               <gap reason="illegible" resp="#murp" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>ed for <hi>H. Bonwicke,</hi> at the <hi>Red Lyon</hi> in St. <hi>Paul</hi>'s <hi>Church-yard,</hi> 1687.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:37314:2"/>
+            <pb facs="tcp:37314:2"/>
+            <head>THE PREFACE.</head>
+            <p>
+               <hi>ALtho the Kings Majesty hath ta<g ref="char:EOLhyphen"/>ken all the Care that ever any Prince did, that his Army should have suitable Assistance for the things of</hi> another <hi>life as well as this; so that there is <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>thing wanting to make the life of a Sol<g ref="char:EOLhyphen"/>dier in his Service, compleatly happy: yet the Chaplains assigned to each particular</hi> Regiment, <hi>cannot be attendant but on one part at one time, when some are upon</hi> De<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>chments, <hi>or Garrison'd at</hi> distance <hi>from the rest, as it happens here in</hi> England <hi>most <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mmonly every Winter: And then, no doubt, there will be frequent occasion for such a</hi> private <hi>Manual as this, altho the Chap<g ref="char:EOLhyphen"/>lain be no ways wanting on his part. And I believe it will be confessed by many, that they have long</hi> wish'd <hi>for such an help.</hi>
+            </p>
+            <p>
+               <hi>For tho there are many excellent</hi> Collecti<g ref="char:EOLhyphen"/>ons <hi>of</hi> Offices <hi>and</hi> Prayers <hi>extant, under the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mes of the most learned and pious</hi> Di<g ref="char:EOLhyphen"/>vines, <hi>yet all those which I have seen, are</hi> different <hi>from this in three respects.</hi>
+            </p>
+            <pb facs="tcp:37314:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:37314:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:37314:4"/>
+            <p>
+               <hi>First, In that they are not</hi> peculiarl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> adapted <hi>as well to the</hi> Genius, <hi>as to the</hi> oc<g ref="char:EOLhyphen"/>casions <hi>of a</hi> Soldier, <hi>requiring either</hi> longer <hi>time to repeat, than can well be spared from the necessary</hi> duties <hi>of this profession, or be<g ref="char:EOLhyphen"/>ing wanting in several</hi> particulars <hi>which are</hi> proper subjects <hi>of a</hi> Soldiers Prayers.</p>
+            <p>
+               <hi>Secondly, They are</hi> swell'd <hi>with such de<g ref="char:EOLhyphen"/>votions as can seldom be brought into the</hi> Military Sphere; <hi>such as are proper fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Women <hi>for</hi> Children, <hi>and the like: nor can the Observance of all the</hi> Feasts <hi>and</hi> Fasts <hi>of the Church, be reasonably expected from a</hi> Soldier <hi>whilst he is upon</hi> Military duty.</p>
+            <p>
+               <hi>Thirdly, They are not so</hi> plain <hi>and</hi> intel<g ref="char:EOLhyphen"/>ligible <hi>to every Capacity, nor each intire Office put so</hi> close <hi>together, without any in<g ref="char:EOLhyphen"/>terruption, or turning over leaves to and fro, which tho 'tis necessary in the usual methods, and serves to confine the</hi> loosness <hi>of a wan<g ref="char:EOLhyphen"/>dring mind; yet is not so Compendious for the Soldiers</hi> time, <hi>nor so Obvious to those who are not acquainted with</hi> rubrical directions.</p>
+            <p>
+               <hi>Whereas our little</hi> Manual <hi>hath nothing in it which a Soldier can well omit, when he hath sufficient time; and yet if he hath but one minute to spare, he may here employ it; for the lesser Service is so order'd, consisting for the most part of</hi> short Collects, <hi>that if the Soldier is not assured before-hand of his</hi> time, <hi>yet he may break off almost when he</hi>
+               <pb facs="tcp:37314:4"/>
+               <hi>will, without any undecent</hi> abruptness; <hi>th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it can never be</hi> excused <hi>where it may be</hi> avoided.</p>
+            <p>
+               <hi>But the</hi> brevity <hi>of these Devotions are every where Conspicuous; for the</hi> Greater Service, <hi>with several</hi> proper Collects, <hi>is perform'd in a quarter of an hour; the lesser requires but a few minutes.</hi>
+            </p>
+            <p>
+               <hi>Yet here is not any thing wanting which is proper for a Soldiers</hi> private Devotions, <hi>at leastways, that could well be added by one who intends benefit to the professors of either Religion, as I ingenuously confess this little prayer-book is intended.</hi>
+            </p>
+            <p>
+               <hi>Nor is it a Contemptible</hi> design, <hi>that Soldiers of</hi> different <hi>Religions in one Bar<g ref="char:EOLhyphen"/>r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ck, may all of them joyn in the</hi> same <hi>pray<g ref="char:EOLhyphen"/>us, and renew to God, as it were before</hi> wit<g ref="char:EOLhyphen"/>nesses, <hi>the protestation of their</hi> Loyalty <hi>to their</hi> King; <hi>and with a pious</hi> simplicity, <hi>learn to love and embrace one another in the reflection of the</hi> Kings love <hi>and</hi> indulgence <hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> all his Subjects.</hi>
+            </p>
+            <p>
+               <hi>The Offices for an</hi> Eucharistical prepa<g ref="char:EOLhyphen"/>ration, Sickness, Wounds, <hi>or</hi> approaching death, <hi>I have here omitted; because amongst other reasons, I think the</hi> presence <hi>of a</hi> Chaplain <hi>will better supply those defects, his Office calling him thereto in a most</hi> especial <hi>manner; for who knows not that the con<g ref="char:EOLhyphen"/>dition of mens particular</hi> Consciences, <hi>may</hi>
+               <pb facs="tcp:37314:5"/>
+               <hi>in these cases be so</hi> various, <hi>that 'tis impossi<g ref="char:EOLhyphen"/>ble the</hi> same <hi>prescription should serve for all?</hi>
+            </p>
+            <p>
+               <hi>I advise therefore, that when a Soldier is sore wounded, or sick, he sends by the</hi> same <hi>messenger for the</hi> Chaplain <hi>as well as the</hi> Physitian: <hi>yet notwithstanding, I have added one prayer, in</hi> case <hi>of Sickness, out of the</hi> Whole Duty of Man.</p>
+            <p>
+               <hi>The</hi> plainness <hi>and the</hi> easiness <hi>of the method, cannot but recommend it to all, each Service being continued unto the end with<g ref="char:EOLhyphen"/>out any</hi> interruption, <hi>unless where a proper Collect is necessary, and that needs but little</hi> Clerkship <hi>to turn to: The</hi> proper Hymns <hi>require indeed the use of a</hi> Psalter; <hi>where one may be had they are soon found out, otherwise they may be omitted.</hi>
+            </p>
+            <p>
+               <hi>No Soldier will wonder, that the</hi> Expe<g ref="char:EOLhyphen"/>dition Hymn <hi>is in the</hi> Evening <hi>rather than</hi> Morning, <hi>it being intended only for a</hi> con<g ref="char:EOLhyphen"/>siderable <hi>March, when the Soldiers ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e little spare time in the</hi> Morning, <hi>but take up their Quarters early at</hi> Night.</p>
+            <p>
+               <hi>And now I must obviate an Objection which may be made, of my putting the greater Service in the</hi> plural <hi>number, when the Title bears, for the</hi> Private <hi>use of a</hi> Soldier.</p>
+            <p>
+               <hi>It must be acknowledged, that most f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rms of Prayer, writ and published by</hi> particular <hi>men, without</hi> Synodical Authority, <hi>are</hi>
+               <pb facs="tcp:37314:5"/>
+               <hi>designed for</hi> private <hi>use; it being no less, than</hi> Schism <hi>for</hi> private <hi>persons to prescribe</hi> publick <hi>forms of Worship; yet certainly those pious Authors did intend, that three or four might make use of such prayer<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s toge<g ref="char:EOLhyphen"/>ther, without any</hi> offence <hi>to</hi> Ecclesiastical Authority.</p>
+            <p>
+               <hi>But considering I write for Soldiers of</hi>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l ranks and degrees, <hi>as well</hi> private Centinels <hi>as</hi> Officers, <hi>we shall find many, t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> being brought up more to</hi> Arms <hi>than</hi> letters, <hi>addicting themselves perhaps to that they now profess, from their very</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>outh, <hi>may always have had an invincible <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ersion to</hi> Books; <hi>and it may without won<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er be supposed, that there are many</hi> Gen<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lemens Sons, <hi>who can't read distinctly their Mother Tongue; these I presume, will be <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>illing to joyn their Devotions with some letter letter'd Comrades.</hi>
+            </p>
+            <p>
+               <hi>Without wonder I say, that private Cen<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tels should be so ignorant, when</hi> Licinius <hi>a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eat Captain, and afterwards Emperour; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>etrannio, a great General in the time of</hi> Constans, Charles VIII. <hi>and divers great <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arriours, not to speak of the</hi> Spartan <hi>Nation, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the general, were notoriously illiterate. Such an Ignorance the great</hi> Sforza <hi>hand<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mely excused in himself, saying,</hi> He <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d not learn'd to hold a Book and a <hi>Sword</hi> in the same hand; <hi>so then it may</hi>
+               <pb facs="tcp:37314:6"/>
+               <hi>very well happen, that but one person in a Barrock or Chamber, may be capable of reading these prayers; whose Charity, I hope, will prompt him to invite his fellow-Soldiers to partake of his</hi> talent.</p>
+            <p>
+               <hi>But suppose there were no such</hi> occasion; <hi>is it any</hi> Solecism <hi>in Divinity, for a single person in his</hi> private <hi>Devotions, to make</hi> prayers <hi>and</hi> intercessions <hi>for</hi> others <hi>as well as</hi> himself? <hi>'Twas concisely said by St.</hi> Ambrose, Haex lib. 1. <hi>He that prays for himself,</hi> only <hi>prays</hi> alone <hi>for himself; meaning, others will not pray for him, or God will not hear the prayers of others for him: And St.</hi>
+               <note place="margin">Ep. 7. juxta Rigalt. &amp; de orat. Dom.</note> Cyprian <hi>notes, that our Saviour when he taught us to say</hi> Our Father, <hi>and not my Father;</hi> our daily bread, <hi>and not my daily bread; meant, that every</hi> individual <hi>person should pray for</hi> others <hi>as well as</hi> him<g ref="char:EOLhyphen"/>self: <hi>And since that short prayer of Gods composing speaks always in the</hi> plural <hi>num<g ref="char:EOLhyphen"/>ber, I think further Apology needless. But notwithstanding all this, if the Reader will be</hi> selfish, <hi>which I think</hi> Soldiers <hi>seldom are, he may, if he please, change [we] into [I] and [us] into [me.] Whilst he that's better humour'd will, I hope, thank me for providing with so</hi> particular <hi>a Care, for his</hi> gratitude <hi>to his</hi> Prince; <hi>which seems in</hi>
+               <pb facs="tcp:37314:6"/>
+               <hi>these prayers, to make up a</hi> great part <hi>of the Soldiers Devotion; and he who duly considers, will find, there is great</hi> reason <hi>for it; not only as in his</hi> character <hi>he is our</hi> common Lord <hi>and</hi> Father, <hi>and in his</hi> per<g ref="char:EOLhyphen"/>son <hi>the</hi> light <hi>of our</hi> Eyes, <hi>and the</hi> desire <hi>of our</hi> hearts, <hi>full of</hi> grace <hi>and</hi> clemency, <hi>for which all his Subjects owe him a</hi> great share <hi>in their</hi> prayers; <hi>but as he is more</hi> peculiarly <hi>a</hi> Royal Patron <hi>and</hi> Benefactor <hi>to his</hi> Soldiers, <hi>and all other his</hi> Servants.</p>
+            <p>
+               <hi>Ʋpon which consideration, besides those in</hi> common <hi>to all the</hi> King's Subjects, <hi>the</hi> Soldier <hi>hath great reason to be</hi> importu<g ref="char:EOLhyphen"/>nate <hi>in his prayers for the</hi> King <hi>his</hi> Master, <hi>and the</hi> Royal Family; <hi>it being a repeating of his</hi> thanks <hi>for the</hi> benefits <hi>enjoy'd under so good a Prince; which he ought to do as</hi> willingly <hi>and as</hi> heartily, <hi>as ever he said</hi> Grace <hi>before or after meat.</hi>
+            </p>
+            <p>
+               <hi>It remains now, that I give a few</hi> direc<g ref="char:EOLhyphen"/>tions <hi>to those who please to make use of this Manual:</hi>
+            </p>
+            <p>
+               <hi>First, That they make use of it as</hi> fre<g ref="char:EOLhyphen"/>quently <hi>as the</hi> King's Service <hi>will admit them, and when they have sufficient</hi> oppor<g ref="char:EOLhyphen"/>tunity, <hi>laying up in</hi> store, <hi>as it were, for times of</hi> greater avocation.</p>
+            <p>
+               <hi>And indeed if we duly consider, a</hi> fre<g ref="char:EOLhyphen"/>quency <hi>in prayer may more reasonably be ex<g ref="char:EOLhyphen"/>pected from</hi> Soldiers, <hi>than from any other sort of men, for three reasons:</hi>
+            </p>
+            <p n="1">
+               <pb facs="tcp:37314:7"/>1. <hi>There are few other men who h<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> so much</hi> leisure <hi>and</hi> spare-time <hi>for t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> greatest part of the year as Soldiers have this is a</hi> large Talent, <hi>and we read th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> much <hi>is expected from them to whom mu<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> is given.</hi>
+            </p>
+            <p n="2">2. <hi>The Soldier being so long un-imployed is</hi> subject <hi>more to divers sorts of</hi> tempt<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tions; <hi>there is great need therefore that <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> should so much the</hi> oftner <hi>implore the</hi> pre<g ref="char:EOLhyphen"/>venting <hi>Grace of God to</hi> guard <hi>and</hi> strength<g ref="char:EOLhyphen"/>en <hi>him against his three worst Enemies▪ the</hi> World, <hi>the</hi> Flesh, <hi>and the</hi> Devil.</p>
+            <p n="3">3. <hi>Since the Soldier, amongst all other men, ought to place the least hopes in▪</hi> Death-bed <hi>Repentance, seeing he stands always in expectation, as it were, of a q<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> passage to another life, he ought always t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be</hi> prepared <hi>with a good</hi> Conscience <hi>as well as</hi> Courage; <hi>and having made his peac<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with God in</hi> frequent <hi>Devotions, he m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> have</hi> nothing <hi>to do at such a time when <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> shall not be</hi> sit <hi>to do any thing</hi> seriously.</p>
+            <p>
+               <hi>Secondly, I would have the Soldier t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pray always in as</hi> devout <hi>and</hi> solemn <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> manner as is possible, that</hi> inward Zeal <hi>and</hi> outward Worship <hi>may be as closely unite<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as</hi> Soul <hi>and</hi> Body.</p>
+            <p>
+               <hi>Thirdly, I would put him in mind, th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> a frequent use of this, or any other</hi> Book <hi>of</hi> Devotions, <hi>will not be a</hi> sufficient per<g ref="char:EOLhyphen"/>formance
+<pb facs="tcp:37314:7"/>
+               <hi>for the purposes of</hi> Eternity, <hi>with<g ref="char:EOLhyphen"/>out a</hi> constant <hi>habit of</hi> Christian Virtue <hi>and</hi> manly Piety.</p>
+            <p>
+               <hi>Fourthly, I do earnestly</hi> entreat <hi>and hum<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly</hi> adjure <hi>him, that he never absents him<g ref="char:EOLhyphen"/>self from</hi> public Prayers, <hi>under pretence of making use of these in</hi> private; <hi>but if he cannot attend on both</hi> public <hi>and</hi> private, <hi>let him rather neglect his</hi> private <hi>than</hi> pub<g ref="char:EOLhyphen"/>lic <hi>Devotions.</hi>
+            </p>
+            <p>
+               <hi>Fifthly, As I think it highly requisite, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat before an</hi> engagement <hi>with the Enemy, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> any other great</hi> danger, <hi>the Soldier should make some religious</hi> Vows <hi>to God, so I would have him take care,</hi>
+            </p>
+            <p>
+               <hi>First, That his Vows be</hi> prudent, plain, <hi>and</hi> positive; <hi>not such a</hi> rash <hi>and</hi> dubi<g ref="char:EOLhyphen"/>ous <hi>one as</hi> Jephthe <hi>made, but such as he <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay be as</hi> willing <hi>to</hi> perform <hi>as</hi> promise, <hi>and which may lye wholly within his</hi> power <hi>of performing.</hi>
+            </p>
+            <p>
+               <hi>Secondly, To let his first Vow be a gene<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al amendment of Life, and a particular a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>andoning, as well of his</hi> bosom <hi>and</hi> dar<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing <hi>Sins, as of the</hi> deepest rooted <hi>and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ost</hi> stubborn, <hi>this being the most accepta<g ref="char:EOLhyphen"/>ble Vow which any man can make to God.</hi>
+            </p>
+            <p>
+               <hi>Thirdly, When he hath escaped the dan<g ref="char:EOLhyphen"/>ger, let him lay to heart these words of the</hi> Preacher: When thou vowest a Vow <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nto God, defer not to pay it; for he
+<pb facs="tcp:37314:8"/> hath no pleasure in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ools: pay that which thou hast vowed; for better it is that thou shouldst not vow, than that thou shouldst vow and not pay, <hi>Eccles.</hi> 5. 4, 5.</p>
+            <p>
+               <hi>And now I pray God that this</hi> little grain of mustard-seed, <hi>tho it be</hi> less than the least <hi>of all that hath been yet sown, may fall on</hi> good ground, <hi>and bring forth a vast increase, to the Glory of his most holy Name: If it succeeds so, I shall have my greatest end, which is out of a</hi> simple <hi>and</hi> sincere <hi>mind, to labour apace in my proper Vocation, and employ the Talent which God hath lent me for the good of</hi> Holy Ca<g ref="char:EOLhyphen"/>tholic Church, <hi>to whose Sacred Judg<g ref="char:EOLhyphen"/>ment, in most humble wise, I submit all that is herein contained.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:37314:8"/>
+            <head>FORMS OF PRAYER FOR THE Private USE OF A SOLDIER.</head>
+            <div type="part">
+               <head>THE Greater Service For the MORNING.</head>
+               <p>
+                  <hi>MY Voice shalt thou hear in the Morn<g ref="char:EOLhyphen"/>ing, O Lord; in the Morning will <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> direct my Prayer unto thee, and will look</hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Psal. 5. 3.</p>
+               <pb n="2" facs="tcp:37314:9"/>
+               <p>[Before Kneeling.]</p>
+               <p>
+                  <hi>When the wicked Man turneth away from his wickedness, and doth that which is lawful and right, he shall save his S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l alive,</hi> Ezek. 18. 27.</p>
+               <p>To this end, let us make Confession of our Sins, with a pure heart and hum<g ref="char:EOLhyphen"/>ble voice, before the Throne of the Hea<g ref="char:EOLhyphen"/>venly Grace, saying:</p>
+               <p>
+                  <hi>[Kneeling down devoutly.]</hi>
+               </p>
+               <p>ALmighty and most merciful Father: We have erred and strayed from thy ways like lost Sheep: we have fol<g ref="char:EOLhyphen"/>lowed too much the devices and desires of our own hearts; we have offended against thy holy Laws: We have left undone those things which we ought to have done; And we have done those things which we ought not to have done: And there is no health in us: But thou O Lord, have mercy upon us miserable Offenders; Spare thou them O God, which confess their faults: Restore thou them that are penitent: According to thy promises declared unto Mankind in Christ Jesu our Lord: And grant, O most merciful Father for his sake; That we may hereafter live a Godly, Righteous, and Sober Life: To the Glory of thy holy Name. <hi>Amen.</hi>
+               </p>
+               <pb n="3" facs="tcp:37314:9"/>
+               <p>OUr Father which art in Heaven; Hallowed be thy Name: Thy King<g ref="char:EOLhyphen"/>dom come: Thy Will be done in Earth as it is in Heaven: Give us this day our daily Bread; And forgive us our Tres<g ref="char:EOLhyphen"/>passes as we forgive them that Trespass against us; And lead us not into Temp<g ref="char:EOLhyphen"/>tation, but deliver us from Evil. For thine is the Kingdom, the Power, and the Glory, for ever and ever, <hi>Amen.</hi>
+               </p>
+               <p>O Lord open thou our Lips.</p>
+               <p>
+                  <hi>And our mouth shall shew forth thy praise.</hi>
+               </p>
+               <p>O God make speed to save us.</p>
+               <p>
+                  <hi>O Lord make haste to help us.</hi>
+               </p>
+               <p>[Standing up.]</p>
+               <p>Glory be to the Father, and to the Son, and to the Holy Ghost.</p>
+               <p>
+                  <hi>Answer.</hi>
+               </p>
+               <p>As it was in the beginning, is now, and ever shall be, World without end, <hi>Amen.</hi>
+               </p>
+               <p>
+                  <hi>Benedictus. S.</hi> Lu. 1. 68.</p>
+               <p>BLessed be the Lord God of <hi>Israel;</hi> for he hath visited and redeemed his People.</p>
+               <p>And hath raised up a mighty Salvati<g ref="char:EOLhyphen"/>on for us, in the House of his Servant <hi>David.</hi>
+               </p>
+               <p>As he spake by the Mouth of his
+<pb n="4" facs="tcp:37314:10"/> holy Prophets; which have been since the World began.</p>
+               <p>That we should be saved from our Enemies: and from the hands of all that hate us.</p>
+               <p>To perform the mercy promised to our Fore-fathers; and to remember his holy Covenant.</p>
+               <p>To perform the Oath which he sware to our Fore-father <hi>Abraham:</hi> that he would give us.</p>
+               <p>That we being delivered out of the Hands of our Enemies, might serve him without fear.</p>
+               <p>In holiness and righteousness before him, all the days of our Life.</p>
+               <p>And thou Child shalt be called the Prophet of the highest; for thou shalt go before the face of the Lord to pre<g ref="char:EOLhyphen"/>pare his ways.</p>
+               <p>To give knowledge of Salvation unto his people, for the remission of their Sins.</p>
+               <p>Through the tender mercy of our God; whereby the day spring from on high hath visited us.</p>
+               <p>To give light to them that sit in darkness, and in the shadow of Death; and to guide our Feet into the way of peace.</p>
+               <p>Glory be to the Father, and to the Son, and to the Holy Ghost.</p>
+               <pb n="5" facs="tcp:37314:10"/>
+               <p>As it was in the beginning, is now, and ever shall be, World without end, <hi>Amen.</hi>
+               </p>
+               <div type="section">
+                  <head>
+                     <hi>Or in Time of</hi> War <hi>this Hymn.</hi>
+                  </head>
+                  <p>PLead thou my Cause, O Lord, with them that strive with me, and fight thou against them that fight against me, <hi>Psal.</hi> 35. 1.</p>
+                  <p>Lay hand upon the Shield and Buck<g ref="char:EOLhyphen"/>ler, and stand up to help me, <hi>ver.</hi> 2.</p>
+                  <p>Bring forth the Spear, and stop the way against them that persecute me; say unto my Soul, I am thy Salvation, <hi>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>er.</hi> 3.</p>
+                  <p>Let them be confounded and put to shame, that seek after my Soul; let them be turned back and brought to Confusion, that imagine mischief for me, <hi>ver.</hi> 4.</p>
+                  <p>I will not be afraid for ten thousand of the people that have set themselves against me round about, <hi>Psal.</hi> 3. 5.</p>
+                  <p>Up Lord, and help me, O my God; for thou smitest all mine Enemies upon the Cheek-bone, thou hast broken the Teeth of the Ungodly, <hi>ver.</hi> 6.</p>
+                  <p>The Lord is my Light and my Salva<g ref="char:EOLhyphen"/>tion, whom then shall I fear; the Lord
+<pb n="6" facs="tcp:37314:11"/> is the strength of my Life, of whom then shall I be afraid, <hi>Psal.</hi> 27. 7.</p>
+                  <p>Tho' an Host of Men were laid against me, yet shall not my Heart be afraid; and tho' there rose up War against me, yet will I put my trust in him, <hi>ver.</hi> 8.</p>
+                  <p>O tarry thou the Lord's leisure; be strong, and he shall comfort thine Heart, and put thou thy trust in the Lord, <hi>ver.</hi> 9.</p>
+                  <p>The Lord of Hosts is with us, the God of <hi>Jacob</hi> is our Refuge, <hi>Psal.</hi> 46. 10.</p>
+                  <p>Glory be to the Father, and to the Son, and to the Holy Ghost.</p>
+                  <p>As it was in the beginning, is now, and ever shall be, World without end, <hi>Amen.</hi>
+                  </p>
+                  <p>Or in Times of <hi>Victory, Psal.</hi> 30.</p>
+                  <p>Or in less prosperous Times, <hi>Psal.</hi> 44.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>The Lesson.</hi> Rom. 13.</head>
+                  <p>LEt every Soul be subject to the high<g ref="char:EOLhyphen"/>er Powers. For there is no Power but of God: The Powers that be, are or<g ref="char:EOLhyphen"/>dained of God: Whosoever therefore re<g ref="char:EOLhyphen"/>sisteth the Power, resisteth the Ordinanc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of God; and they that resist, shall receiv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to themselves Damnation: For Rule<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <pb n="7" facs="tcp:37314:11"/> are not a Terror to good Works, but to the Evil: Wilt thou then not be afraid of the Power? Do that which is good, and thou shalt have praise of the same; for he is the Minister of God to thee for good: But if thou do that which is evil, be afraid, for he beareth not the Sword in vain; for he is the Minister of God, a Revenger to execute Wrath up<g ref="char:EOLhyphen"/>on him that doth evil; wherefore ye must needs be subject not only for Wrath, but for Conscience sake: For this cause pay you Tribute also, for they are God's Ministers attending continually upon this very thing. Render there<g ref="char:EOLhyphen"/>fore to all their dues, Tribute to whom Tribute is due, Custom to whom Custom, Fear to whom Fear, Honour to whom Honour.</p>
+               </div>
+               <div type="section">
+                  <head>The Laud, or Hymn of Praise.</head>
+                  <p>I will magnifie thee, O God my King, and will praise thy Name for ever and ever, <hi>Psal.</hi> 145. 1.</p>
+                  <p>Every day will I give thanks unto thee, and praise thy Name for ever and ever, <hi>ver.</hi> 2.</p>
+                  <p>Great is the Lord, and marvellous
+<pb n="8" facs="tcp:37314:12"/> worthy to be praised, there is no end of his greatness, <hi>ver.</hi> 3.</p>
+                  <p>One Generation shall praise thy Works unto another, and declare thy Power, <hi>ver.</hi> 4.</p>
+                  <p>All thy Works praise thee, O Lord, and thy Saints give thanks unto thee, <hi>ver.</hi> 10.</p>
+                  <p>They shew the Glory of thy Kingdom, and talk of thy Power, <hi>ver.</hi> 11.</p>
+                  <p>The Lord is righteous in all his ways, and holy in all his Works, <hi>ver.</hi> 17.</p>
+                  <p>My Mouth shall speak the praise of the Lord, and let all Flesh give Thanks unto his Holy Name for ever and ever, <hi>ver.</hi> 21.</p>
+                  <p>Glory be to the Father, <hi>&amp;c.</hi>
+                  </p>
+                  <p>As it was in the beginning, <hi>&amp;c.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Let us make Confession of our Faith.</head>
+                  <p>I Believe in God the Father Almighty, Maker of Heaven and Earth, and in Jesus Christ his only Son our Lord; who was conceived by the Holy Ghost, born of the Virgin <hi>Mary,</hi> suffered under <hi>Pon<g ref="char:EOLhyphen"/>tius Pilate,</hi> was crucified, dead and bu<g ref="char:EOLhyphen"/>ried, he descended into Hell, the third day he rose again from the Dead; He ascended into Heaven, and sitteth on
+<pb n="9" facs="tcp:37314:12"/> the right hand of God the Father Al<g ref="char:EOLhyphen"/>mighty, from thence he shall come to judge the Quick and the Dead.</p>
+                  <p>I believe in the Holy Ghost, the Ho<g ref="char:EOLhyphen"/>ly Catholick Church, the Communion of Saints, the forgiveness of Sins, the Resurrection of the Body, and the Life everlasting, <hi>Amen.</hi>
+                  </p>
+                  <lg>
+                     <head>[Let us pray]</head>
+                     <l>Lord have mercy upon us.</l>
+                     <l>Christ <hi>have mercy upon us.</hi>
+                     </l>
+                     <l>Lord have mercy upon us.</l>
+                  </lg>
+                  <p>OUr Father which art in Heaven; Hallowed be thy Name: Thy King<g ref="char:EOLhyphen"/>dom come; Thy Will be done in Earth as it is in Heaven; Give us this day our daily Bread; And forgive us our Tres<g ref="char:EOLhyphen"/>passes, as we forgive them that trespass against us; And lead us not into Temp<g ref="char:EOLhyphen"/>tation, but deliver us from evil, <hi>Amen.</hi>
+                  </p>
+                  <lg>
+                     <l>O Lord shew thy Mercy upon us.</l>
+                     <l>
+                        <hi>And grant us thy Salvation.</hi>
+                     </l>
+                     <l>O Lord save the King.</l>
+                     <l>
+                        <hi>And mercifully hear us when we call up<g ref="char:EOLhyphen"/>on thee.</hi>
+                     </l>
+                     <l>Endue thy Ministers with Righteous<g ref="char:EOLhyphen"/>ness.</l>
+                     <l>
+                        <hi>And make thy chosen people joyful.</hi>
+                     </l>
+                     <l>O Lord save thy People.</l>
+                     <l>
+                        <hi>Because there is none other fighteth for us, but only thou, O God.</hi>
+                     </l>
+                     <pb n="10" facs="tcp:37314:13"/>
+                     <l>O God make clean our Hearts within us.</l>
+                     <l>
+                        <hi>And take not thy Holy Spirit from us.</hi>
+                     </l>
+                  </lg>
+                  <p>PRevent us, O Lord, in all our Do<g ref="char:EOLhyphen"/>ings, with thy most gracious Favour, and further us with thy continual hel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> that in all our Works, begun, continu<g ref="char:EOLhyphen"/>ed, and ended in thee, we may glori<g ref="char:EOLhyphen"/>fie thy holy Name; and finally by th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Mercy obtain everlasting Life, through Jesus Christ our Lord, <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Or else one or more of the special Colle<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> as there shall be occasion.</head>
+                  <p>ALmighty God, in knowledge o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> whom standeth our Eternal Life, whose Service is perfect freedom; de<g ref="char:EOLhyphen"/>fend us thy humble Servants in all As<g ref="char:EOLhyphen"/>saults of our Enemies, that we, surely trusting in thy defence, may not fear the power of any Adversaries, through the might of Jesus Christ our Lord, <hi>Amen.</hi>
+                  </p>
+                  <p>O Lord our Heavenly Father, Almighty and everlasting God, who hast safe<g ref="char:EOLhyphen"/>ly brought us to the beginning of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> day, defend us in the same with th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> mighty power, and grant that this d<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> we fall into no Sin, neither run in<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <pb n="11" facs="tcp:37314:13"/> any kind of danger; but that all our Doings may be ordered by thy Gover<g ref="char:EOLhyphen"/>nance, to do always that is righteous in thy sight, through Jesus Christ our Lord, <hi>Amen.</hi>
+                  </p>
+                  <p>O Lord our Heavenly Father, high and mighty, King of Kings, Lord of Lords, the only Ruler of Princes, who dost from thy Throne behold all the Dwellers upon Earth; most heartily we beseech thee with thy Favour to behold our most Gracious Soveraign Lord King <hi>JAMES,</hi> and so replenish him with the Grace of thy Holy Spirit, that he may alway incline to thy Will, and walk in thy Way: Endue him plente<g ref="char:EOLhyphen"/>ously with Heavenly Gifts; grant him in Health and Wealth long to live; strengthen him that he may vanquish and overcome all his Enemies; and fi<g ref="char:EOLhyphen"/>nally, after this Life, he may attain everlasting Joy and Felicity, through Jesus Christ our Lord, <hi>Amen.</hi>
+                  </p>
+                  <p>
+                     <hi>A Prayer used daily by the Christian Sol<g ref="char:EOLhyphen"/>diers under</hi> Constantine <hi>the Great.</hi>
+                  </p>
+                  <p>O Lord, we acknowledge <note place="margin">
+                        <hi>Euseb. in vit. Const. lib.</hi> 4.</note> thee to be the only God, the King of all Nati<g ref="char:EOLhyphen"/>ons,
+<pb n="12" facs="tcp:37314:14"/> we implore thee to be our Helper; by thee our Victories are obtained, by thee our Enemies are subdued; thou hast filled our Minds with remembrance of thy former Mercies, and with the hope and expectation of thy future Bounty: Behold us now thy humble Supplicants, beseeching thee for our Soveraign Prince's long Life and perpe<g ref="char:EOLhyphen"/>tual Victories, through Christ our Lord, <hi>Amen.</hi>
+                  </p>
+                  <p>ALmighty God, the Fountain of all Goodness, we humbly beseech thee to bless our Gracious Queen <hi>Mary, Kathe<g ref="char:EOLhyphen"/>rine</hi> the Queen Dowager, their Royal High<g ref="char:EOLhyphen"/>nesses <hi>Mary</hi> Princess of <hi>Orange,</hi> and the Princess <hi>Ann</hi> of <hi>Denmark,</hi> and all the Royal Family; endue them with thy Holy Spirit, enrich them with thy Hea<g ref="char:EOLhyphen"/>venly Grace, prosper them with all Hap<g ref="char:EOLhyphen"/>piness, and bring them to thine Ever<g ref="char:EOLhyphen"/>lasting Kingdom, through Jesus Christ our Lord, <hi>Amen.</hi>
+                  </p>
+                  <p>ALmighty and everlasting God, who hast taught us to make Prayers and Supplications, and to give Thanks for Kings, and all that are in Authority un<g ref="char:EOLhyphen"/>der them; we beseech thee to save and defend thy Servant <hi>James</hi> our King, and
+<pb n="13" facs="tcp:37314:14"/> all the Royal Family. Give Grace, O Heavenly Father, unto his whole Coun<g ref="char:EOLhyphen"/>cil, and to all his Officers; more parti<g ref="char:EOLhyphen"/>cularly those under whose Command we are placed, that they may with Prudence, lategrity and Courage, discharge duly the several Trusts reposed in them, to the Safety and Glory of our King and his Kingdom: And for us, and for all our fellow-Soldiers, we humbly beseech thee to endue us with such Virtues, as may adorn the Profession of Christian Warriours; more particularly, with Loy<g ref="char:EOLhyphen"/>alty, Fortitude, and Temperance, and with upright, contented, and charita<g ref="char:EOLhyphen"/>ble Spirits. We pray thee likewise for all Bishops and Curates, and for all Estates of Men in thy Holy Catholick Church, that every Member of the same in his Vocation and Ministry, may truly and di<g ref="char:EOLhyphen"/>ligently serve thee. And we most humbly beseech thee, to comfort and support all thy People in their several necessities and exigencies; and we also bless thy Holy Name, for all those triumphant Souls who have fought a good Fight, and finished their Course; beseeching thee to give us Grace so to follow their good Examples, that with them we may be partakers of thy Heavenly Kingdom. Grant this, O Father, for Jesus Christ
+<pb n="14" facs="tcp:37314:15"/> his sake, our only Mediator and Advo<g ref="char:EOLhyphen"/>cate, <hi>Amen.</hi>
+                  </p>
+                  <p>O Almighty Lord and everlasting God, vouchsafe, we beseech thee, to direct, sanctifie, and govern both our Hearts and Bodies in the ways of thy Laws, and in the Works of thy Com<g ref="char:EOLhyphen"/>mandments; that through thy most mighty Protection, both here, and ever, we may be preserved in Body and Soul, through our Lord and Saviour, <hi>Jesus Christ, Amen.</hi>
+                  </p>
+                  <p>The Grace of our Lord Jesus Christ, and the Love of God, and the Fellow<g ref="char:EOLhyphen"/>ship of the Holy Ghost, be with us all evermore, <hi>Amen.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="15" facs="tcp:37314:15"/>
+               <head>THE Greater Service For the EVENING.</head>
+               <p>LEt my Prayer be set forth before thee as Incense, and the lifting up of my Hands as the Evening Sacrifice, <hi>Psal.</hi> 141. 2.</p>
+               <p>[Before Kneeling.]</p>
+               <p>If we say, that we have no sin, we de<g ref="char:EOLhyphen"/>ceive our selves, and the Truth is not in us; but if we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all Ʋnrighteousness, 1 <hi>Jo.</hi> 1. 8, 9.</p>
+               <p>To this end, let us make Confession of our Sins with a pure Heart and humble Voice, before the Throne of the Hea<g ref="char:EOLhyphen"/>venly Grace, saying:</p>
+               <p>
+                  <hi>[Kneeling down devoutly.]</hi>
+               </p>
+               <p>ALmighty and most merciful Father: We have erred and strayed from thy ways like lost Sheep: We have fol<g ref="char:EOLhyphen"/>lowed
+<pb n="14" facs="tcp:37314:16"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="15" facs="tcp:37314:16"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="16" facs="tcp:37314:17"/> too much the devices and desires of our own Hearts: We have offende<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> against thy holy Laws: We have le<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> undone those things which we ought to have done: And we have done those things which we ought not to have done: And there is no health in us: But thou, O Lord, have mercy upon us mise<g ref="char:EOLhyphen"/>rable Offenders: Spare thou them, O God, which confess their Faults: Re<g ref="char:EOLhyphen"/>store thou them that are penitent: Ac<g ref="char:EOLhyphen"/>cording to thy promises declared unto Mankind in Christ Jesu our Lord: A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d grant, O most merciful Father, for his sake; That we may hereafter live a God<g ref="char:EOLhyphen"/>ly, Righteous, and Sober Life: To the Glory of thy Holy Name, <hi>Amen.</hi>
+               </p>
+               <p>OUr Father which art in Heaven: Hallowed be thy Name: Thy King<g ref="char:EOLhyphen"/>dom come: Thy Will be done in Earth as it is in Heaven: Give us this day our daily Bread: And forgive us our Tres<g ref="char:EOLhyphen"/>passes, as we forgive them that trespass against us: And lead us not into Temp<g ref="char:EOLhyphen"/>tation; But deliver us from Evil: For thine is the Kingdom, the Power, and the Glory, for ever and ever, <hi>Amen.</hi>
+               </p>
+               <lg>
+                  <l>O Lord open thou our Lips.</l>
+                  <l>
+                     <hi>And our mouths shall shew forth thy praise.</hi>
+                  </l>
+                  <l>O God make speed to save us.</l>
+                  <l>
+                     <hi>O Lord make haste to help us.</hi>
+                  </l>
+               </lg>
+               <pb n="17" facs="tcp:37314:17"/>
+               <p>[Standing up.]</p>
+               <p>Glory be to the Father, and to the Son, and to the Holy Ghost.</p>
+               <p>As it was in the beginning, is now, and ever shall be, World without end, <hi>Amen.</hi>
+               </p>
+               <div type="part">
+                  <head>
+                     <hi>Deus misereatur,</hi> Ps. 67.</head>
+                  <p>GOd be merciful unto us, and bless us, and shew us the light of his Coun<g ref="char:EOLhyphen"/>tenance, and be merciful unto us.</p>
+                  <p>That thy way may be known upon earth: thy saving health among all Na<g ref="char:EOLhyphen"/>tions.</p>
+                  <p>Let the people praise thee O God: yea, let all the people praise thee.</p>
+                  <p>O let the Nations rejoyce and be glad; for thou shalt judge the folk righteously, and govern the Nations upon earth.</p>
+                  <p>Let the people praise thee O God, let all the people praise thee.</p>
+                  <p>Then shall the earth bring forth her <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>crease: and God even our own God, shall give us his blessing.</p>
+                  <p>God shall bless us, and all the ends of the World shall fear him.</p>
+                  <p>Glory be to the Father, and to the Son, and to the Holy Ghost.</p>
+                  <p>As it was in the beginning, is now, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd ever shall be, world without end, <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="18" facs="tcp:37314:18"/>
+                  <head>Or in time of War, this Hymn.</head>
+                  <p>O Lord God of Hosts, who is like unto thee; thy truth most mighty Lord, is on every side, <hi>Psal.</hi> 89. 9.</p>
+                  <p>Thou hast a mighty Arm, strong is thy hand, and high is thy right hand, <hi>Ver.</hi> 14.</p>
+                  <p>For the Lord is our defence, the Holy one of Israel is our King, <hi>ver.</hi> 19.</p>
+                  <p>Thou spakest sometimes in Visio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s unto thy Saints, and saidst, I have laid help upon one that is mighty, <hi>ver.</hi> 20.</p>
+                  <p>I have souud David my Servant, with my holy Oyl have I anointed him, <hi>ver.</hi> 21.</p>
+                  <p>My hand shall hold him fast, and my arm shall strengthen him, <hi>ver.</hi> 22.</p>
+                  <p>The enemy shall not be able to do him violence; the Son of Wickedness shall not hurt him, <hi>ver.</hi> 23.</p>
+                  <p>I will smite down his foes before his face; and plague them that hate him, <hi>ver.</hi> 24.</p>
+                  <p>My truth also, and my mercy shall be with him; and in my name shall his Horn be exalted, <hi>ver.</hi> 25.</p>
+                  <p>I will set his dominion also in the Sea, and his right hand in the Floods, <hi>ver.</hi> 26.</p>
+                  <p>He shall call me, Thou art my Father my God and my strong Salvation, <hi>ver.</hi> 27.</p>
+                  <pb n="19" facs="tcp:37314:18"/>
+                  <p>And I will make him my first-born: higher than the Kings of the earth, <hi>v.</hi> 28.</p>
+                  <p>My mercy will I keep for him, for evermore; and my Covenant shall stand fast with him, <hi>ver.</hi> 29.</p>
+                  <p>His Seed also will I make to endure for ever; and his Throne as the days of Heaven, <hi>ver.</hi> 30.</p>
+                  <p>Glory be to the Father, and to the Son, and to the Holy Ghost.</p>
+                  <p>As it was in the beginning, is now, and ever shall be, world without <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd, <hi>Amen.</hi>
+                  </p>
+                  <p>Or in an Expedition, <hi>Psal.</hi> 91.</p>
+                  <p>Or in Times of Victory, <hi>Psal.</hi> 98.</p>
+                  <p>Or in less prosperous times, <hi>Psal.</hi> 80.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>The Lesson,</hi> St. <hi>Mark</hi> 13.</head>
+                  <p>TAke heed, watch and pray: for ye know not when the time is. For the Son of Man is as one taking a far journey, who left his house, and gave Authority to his Servants, and to every man his work, and commanded the Porter to watch. Watch ye therefore; for ye know not when the master of the house will come, at even, or at midnight, or at Cock-crowing, or in the morning: lest if he come suddainly, he find you
+<pb n="20" facs="tcp:37314:19"/> sleeping. And what I say unto you, I say unto all, Watch.</p>
+               </div>
+               <div type="section">
+                  <head>The Laud, or Hymn of Praise.</head>
+                  <p>O Praise the Lord of Heaven, praise him in the height, <hi>Psal.</hi> 148. 1.</p>
+                  <p>Praise him all ye Angels of his, praise him all his Host <hi>ver.</hi> 2</p>
+                  <p>Praise him Sun and Moon; praise him all ye Sca<gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <hi>ver.</hi> 3.</p>
+                  <p>Praise <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Heavens, and ye Water <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> the Heavens, <hi>v.</hi> 4.</p>
+                  <p>Fi<gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Snow and Vapours, Win<gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> fulfilling his word, <hi>ver.</hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</p>
+                  <p>K<gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> the Earth, and all people, P<gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> and all Judges of the World, <hi>ver.</hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</p>
+                  <p>Y<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ng Men and Maidens, Old Men a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Children, praise the Name of the <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>; for his Name only is excellent, and his Praise above Heaven and Earth, <hi>ver.</hi> 12.</p>
+                  <p>He shall exalt the Horn of his People, all his Saints shall praise him, even the Children of <hi>Israel,</hi> even the people that serveth him, <hi>ver.</hi> 13.</p>
+                  <p>Glory be to the Father, <hi>&amp;c.</hi>
+                  </p>
+                  <p>As it was in the beginning, <hi>&amp;c.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="21" facs="tcp:37314:19"/>
+                  <head>Let us make Confession of our Faith.</head>
+                  <p>I Believe in God the Father Almighty, Maker of Heaven and Earth: And in Jesus Christ his only Son our Lord; who was conceived by the holy Ghost, born of the Virgin <hi>Mary,</hi> suffered under <hi>Pontius Pilate,</hi> was crucified, dead and buried, he descended into Hell, the third day he arose again from the dead, he ascended into Heaven, and sitteth on the right hand of God the Father Al<g ref="char:EOLhyphen"/>mighty, from thence he shall come to judge the Quick and the Dead.</p>
+                  <p>I believe in the Holy Ghost; the Ho<g ref="char:EOLhyphen"/>ly Catholick Church; the Communion of Saints; the Forgiveness of sins; the Resurrection of the Body, and the Life everlasting, <hi>Amen.</hi>
+                  </p>
+                  <lg>
+                     <head>[Let us pray.]</head>
+                     <l>Lord have mercy upon us.</l>
+                     <l>
+                        <hi>Christ have mercy upon us.</hi>
+                     </l>
+                     <l>Lord have mercy upon us.</l>
+                  </lg>
+                  <p>OUr Father which art in Heaven: Hallowed be thy Name: Thy King<g ref="char:EOLhyphen"/>dom come: Thy will be done in Earth as it is in Heaven: Give us this day our daily Bread: And forgive us our Tres<g ref="char:EOLhyphen"/>passes, as we forgive them that trespass
+<pb n="22" facs="tcp:37314:20"/> against us: And lead us not into Temp<g ref="char:EOLhyphen"/>tation; But deliver us from evil, <hi>Amen.</hi>
+                  </p>
+                  <lg>
+                     <l>O Lord shew thy mercy upon us.</l>
+                     <l>
+                        <hi>And grant us thy Salvation.</hi>
+                     </l>
+                     <l>O Lord save the King.</l>
+                     <l>
+                        <hi>And mercifully hear us when we call up<g ref="char:EOLhyphen"/>on thee.</hi>
+                     </l>
+                     <l>Endue thy Ministers with Righteous<g ref="char:EOLhyphen"/>ness.</l>
+                     <l>
+                        <hi>And make thy chosen people joyful.</hi>
+                     </l>
+                     <l>O Lord save thy people.</l>
+                     <l>
+                        <hi>Because there is none other that fighteth for us, but only thou, O God.</hi>
+                     </l>
+                     <l>O God make clean our Hearts within us</l>
+                     <l>
+                        <hi>And take not thy holy Spirit from us.</hi>
+                     </l>
+                  </lg>
+                  <p>ASsist us mercifully, O Lord, in these our Supplications and Prayers, and dispose the way of thy Servants, towards the attainment of everlasting Salvation; that among all the changes and chances of this mortal Life, we may ever be de<g ref="char:EOLhyphen"/>fended by thy most gracious and ready help, through Jesus Christ our Lord, <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>¶ <hi>Or instead of this, one or more of the special Collects, as there shall be occasion.</hi>
+                  </head>
+                  <p>O God, from whom all holy desires, all good counsels, and all just works
+<pb n="23" facs="tcp:37314:20"/> do proceed, give unto thy servants that <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ace which the world cannot give, that <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>h our hearts may be set to obey thy Commandments; and also that by thee <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e being defended from the fear of our Enemies, may pass our time in rest and quietness; through the merits of Jesus Christ our Saviour, <hi>Amen.</hi>
+                  </p>
+                  <p>LIghten our Darkness, we beseech thee, O Lord; and by thy great <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>y defend us from all perils and dan<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rs of this night, for the love of thy <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y Son our Saviour Jesus Christ, <hi>Amen.</hi>
+                  </p>
+                  <p>O Lord our Heavenly Father, high and mighty, King of Kings, Lord of Lords, the only Ruler of Princes, who <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>st from thy Throne behold all the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ellers upon Earth; most heartily we beseech thee with thy Favour, to behold our most gracious Soveraign Lord King <hi>James,</hi> and so replenish him with the Grace of thy holy spirit, that he may <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ay incline to thy will, and walk in thy way: endue him plenteously with Heavenly Gifts; grant him in Health and Wealth long to live, strengthen him that he may vanquish and overcome all his Enemies; and finally after this life,
+<pb n="24" facs="tcp:37314:21"/> he may attain everlasting joy and felici<g ref="char:EOLhyphen"/>ty, through Jesus Christ our Lord, <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>A very Ancient Prayer.</head>
+                  <p>O God the Protector of all Christian Soveraignty, give unto thy ser<g ref="char:EOLhyphen"/>vant, and our Soveraign, triumph over his Enemies, that he who is crowned by thy Providence, may be always safe and secure by thy Protection, through Jesus Christ our Lord, <hi>Amen.</hi>
+                  </p>
+                  <p>ALmighty God, the Fountain of all goodness, we humbly beseech thee to bless our gracious Queen <hi>Mary, Katherine</hi> the Queen Dowager, their Royal Highnesses <hi>Mary</hi> Princess of <hi>Orange,</hi> and the Princess <hi>Ann</hi> of <hi>Denmark,</hi> and all the Royal Family: Endue them with thy holy Spirit, enrich them with thy Heavenly Grace, prosper them with all happiness, and bring them to thine ever<g ref="char:EOLhyphen"/>lasting Kingdom, through Jesus Christ our Lord, <hi>Amen.</hi>
+                  </p>
+                  <p>ALmighty and everliving God, who hast taught us to make Prayers and Supplications, and to give thanks for Kings, and all that are in Authority un<g ref="char:EOLhyphen"/>der them; we beseech thee to save and
+<pb n="25" facs="tcp:37314:21"/> defend thy Servant <hi>James</hi> our King, and all the Royal Family. Give Grace, O Heavenly Father, unto his whole Coun<g ref="char:EOLhyphen"/>cil, and to all his Officers, more par<g ref="char:EOLhyphen"/>ticularly those under whom we are pla<g ref="char:EOLhyphen"/>ced, that they may with Prudence, In<g ref="char:EOLhyphen"/>tegrity and Courage, discharge duly the several Trusts reposed in them, to the safety and glory of our King and his Kingdom; and for us and all our fellow-Soldiers, we most humbly beseech thee <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o endue us with such virtues as may a<g ref="char:EOLhyphen"/>dorn the Profession of Christian War<g ref="char:EOLhyphen"/>riours; more particularly with Loy<g ref="char:EOLhyphen"/>alty, Fortitude, and Temperance, and with upright, contented, and charitable Spirits: We pray thee likewise for all Bishops and Curats, and for all Estates of Men in thy Holy Catholick Church, that every Member of the same in his Vo<g ref="char:EOLhyphen"/>cation or Ministry, may truly and diligent<g ref="char:EOLhyphen"/>ly serve thee. And we most humbly be<g ref="char:EOLhyphen"/>seech thee, to comfort and support all <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y People in their several necessities and exigencies. And we also bless thy holy Name for all those triumphant Souls who have fought a good fight, and finish<g ref="char:EOLhyphen"/>ed their Course; beseeching thee to give <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e Grace so to follow their good Exam<g ref="char:EOLhyphen"/>ple, that with them we may be partakers <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f thy Heavenly Kingdom. Grant this,
+<pb n="26" facs="tcp:37314:22"/> O Father, for Jesus Christ's sake, our only Mediator and Advocate, <hi>Amen.</hi>
+                  </p>
+                  <p>ALmighty God, the Fountain of all Wisdom, who knowest our neces<g ref="char:EOLhyphen"/>sities before we ask, and our Ignorance in asking; we beseech thee to have compassion upon our infirmities; and those things, which, for our unworthi<g ref="char:EOLhyphen"/>ness, we dare not, and for our blindness, we cannot ask, vouchsafe to give us, for the worthiness of thy Son Jesus Christ our Lord, <hi>Amen.</hi>
+                  </p>
+                  <p>The Grace of our Lord Jesus Christ, and the Love of God, and the Fellowship of the Holy Ghost, be with us all ever<g ref="char:EOLhyphen"/>more, <hi>Amen.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="27" facs="tcp:37314:22"/>
+               <head>THE Lesser Service For the MORNING.</head>
+               <div type="section">
+                  <head>God be merciful to me a Sinner.</head>
+                  <p>OUr Father which art in Heaven: Hallowed be thy Name: Thy King<g ref="char:EOLhyphen"/>dom come: Thy Will be done in Earth <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s it is in Heaven: Give us this day our <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ly Bread: And forgive us our Tres<g ref="char:EOLhyphen"/>passes, as we forgive them that trespass against us: And lead us not into Temp<g ref="char:EOLhyphen"/>tation; But deliver us from Evil: For <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>e is the Kingdom, the Power, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Glory, for ever and ever, <hi>Amen.</hi>
+                  </p>
+                  <p>PRevent me, O Lord, in all my doings with thy most gracious favour, and <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>her me with thy continual help, that <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ll my Works, begun, continued, and
+<pb n="28" facs="tcp:37314:23"/> ended in thee, I may glorifie thy holy Name, and finally by thy mercy obtain everlasting life, through Jesus Christ our Lord, <hi>Amen.</hi>
+                  </p>
+                  <p>[12 <hi>after Trin.]</hi>
+                  </p>
+                  <p>ALmighty and everlasting God, who art always more ready to hear than we to pray, and art wont to give more than either we desire or deserve; pour down upon me the abundance of thy mer<g ref="char:EOLhyphen"/>cy, forgiving me those things whereof my Conscience is afraid, and giving me those good things which I am not worthy to ask, but through the merits and mediati<g ref="char:EOLhyphen"/>on of Jesus Christ thy Son our Lord, <hi>Amen.</hi>
+                  </p>
+                  <p>[1 <hi>after Trin.]</hi>
+                  </p>
+                  <p>O God the strength of all them that put their trust in thee, mercifully accept my Prayers; and because, through the weakness of my mortal nature, I can do no good thing without thee, grant me the help of thy Grace, that in keeping thy Commandments, I may please thee both in will and deed, through Jesus Christ our Lord, <hi>Amen.</hi>
+                  </p>
+                  <p>[7 <hi>after Trin.]</hi>
+                  </p>
+                  <p>LOrd of all power and might, who art the Author and Giver of all
+<pb n="29" facs="tcp:37314:23"/> good things; graft in my Heart the love of thy Name, increase in me true Reli<g ref="char:EOLhyphen"/>gion, nourish me with all goodness, and of thy great mercy keep me in the same, through Jesus Christ our Lord, <hi>Amen.</hi>
+                  </p>
+                  <p>[3d. <hi>after Epiph.]</hi>
+                  </p>
+                  <p>ALmighty and everlasting God, mer<g ref="char:EOLhyphen"/>cifully look upon my infirmities; and in all my dangers and necessities, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>retch forth thy right hand to help and defend me, through Jesus Christ our Lord, <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>¶ <hi>Here follow the proper Collects.</hi>
+                  </head>
+                  <p>O Lord our Heavenly Father, Almighty and Everlasting God, who hast safe<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y brought me to the beginning of this <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y; defend me in the same with thy <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ighty power, and grant that this day <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fall into no sin, neither run into any <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>od of danger; but that all my doings <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>y be ordered by thy governance, to <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> always that is righteous in thy sight, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rough Jesus Christ our Lord, <hi>Amen.</hi>
+                  </p>
+                  <p>O Lord our Heavenly Father, high and mighty, King of Kings, Lord of
+<pb n="30" facs="tcp:37314:24"/> Lords, the only Ruler of Princes, who dost from thy Throne behold all the dwellers upon Earth; most heartily I beseech thee with thy Favour, to behold our most gracious Soveraign Lord King <hi>James,</hi> and so replenish him with the Grace of thy holy spirit, that he may alway incline to thy will, and walk in thy way: endue him plenteously with Heavenly Gifts, grant him in Health and Wealth long to live, strengthen him that he may vanquish and overcome all his Enemies; and finally after this life, he may attain everlasting joy and felici<g ref="char:EOLhyphen"/>ty, through Jesus Christ our Lord, <hi>Amen.</hi>
+                  </p>
+                  <p>ALmighty and everliving God, who hast taught us to make Prayers and Supplications, and to give thanks for Kings, and all that are in Authority un<g ref="char:EOLhyphen"/>der them; I beseech thee to save and de<g ref="char:EOLhyphen"/>fend thy Servant <hi>James</hi> our King and Master, his Royal Consort our Gracious Queen <hi>Mary, Katherine</hi> the Queen Dow<g ref="char:EOLhyphen"/>ager, their Royal Highnesses <hi>Mary</hi> Prin<g ref="char:EOLhyphen"/>cess of <hi>Orange,</hi> the Princess <hi>Ann</hi> of <hi>Den<g ref="char:EOLhyphen"/>mark,</hi> and all the Royal Family: Give Grace, O Heavenly Father, unto his whole Council, and to all his Officers, more particularly those under whom I am placed, that they may with prudence,
+<pb n="31" facs="tcp:37314:24"/> integrity and courage, discharge duly the several trusts reposed in them, to the safety and glory of the King, and his Kingdom; and for me and all my fellow-Soldiers, I most humbly beseech thee to endue us with such Virtues as may adorn the profession of Christian Warri<g ref="char:EOLhyphen"/>ours; more particularly with Loyalty, Fortitude, and Temperance; and with upright, contented, and charitable Spi<g ref="char:EOLhyphen"/>rits: I pray thee likewise for all Bishops and Curats, and for all estates of men in thy holy Catholick Church, that every Member of the same in his Vocation and Ministry, may truly and diligently serve thee. And I most heartily beseech thee to comfort and support all thy people in their several necessities and exigencies: And I also bless thy holy name for all those triumphant Souls, who have fought <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> good Fight, and finished their Course; beseeching thee to give me Grace so to follow their good examples, that with them I may be partaker of thy Heaven<g ref="char:EOLhyphen"/>ly Kingdom. Grant this, O Father, for Jesus Christ's sake, our only Mediator and Advocate, <hi>Amen.</hi>
+                  </p>
+                  <p>O Almighty Lord and everlasting God, vouchsafe, I beseech thee, to direct, sanctifie, and govern both my heart and
+<pb n="32" facs="tcp:37314:25"/> body in the ways of thy Laws, and in the works of thy Commandments; that through thy most mighty protection both here and ever, I may be preserved in body and Soul, through our Lord and Saviour Jesus Christ, <hi>Amen.</hi>
+                  </p>
+                  <p>The Grace of our Lord Jesus Christ, and the love of God, and the fellowship of the Holy Ghost, be with me now and evermore, <hi>Amen.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="33" facs="tcp:37314:25"/>
+               <head>THE Lesser Service For the EVENING.</head>
+               <lg>
+                  <l>Lord have mercy upon me.</l>
+                  <l>
+                     <hi>Christ have mercy upon me.</hi>
+                  </l>
+                  <l>Lord have mercy upon me.</l>
+               </lg>
+               <p>OUr Father which art in Heaven; Hallowed be thy Name: Thy King<g ref="char:EOLhyphen"/>dom come: Thy Will be done in Earth as it is in Heaven: Give us this day our daily Bread: And forgive us our Tres<g ref="char:EOLhyphen"/>passes as we forgive them that Trespass against us: And lead us not into Temp<g ref="char:EOLhyphen"/>tation, but deliver us from Evil. For thine is the Kingdom, the Power, and the Glory, for ever and ever, <hi>Amen.</hi>
+               </p>
+               <p>ASsist me mercifully, O Lord, in all my Supplications and Prayers, and dispose the way of thy Servant, towards the attainment of everlasting Salvation; that among all the changes and chances of this mortal Life, I may ever be de<g ref="char:EOLhyphen"/>fended by thy most gracious and ready <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elp, through Jesus Christ our Lord, <hi>Amen.</hi>
+               </p>
+               <pb n="34" facs="tcp:37314:26"/>
+               <p>[2 <hi>after Trin.]</hi>
+               </p>
+               <p>O Lord, who never failest to help and govern them whom thou dost bring up in thy stedfast fear and love, keep me, I beseech thee, under the protection of thy good Providence, and make me to have a perpetual fear and love of thy holy name through Jesus Christ our Lord, <hi>Amen.</hi>
+               </p>
+               <p>[4 <hi>after Trin.]</hi>
+               </p>
+               <p>O God, the Protector of all that trust in thee, without whom nothing is strong, nothing is holy, encrease and multiply upon me thy mercy; that thou being my Ruler and Guide, I may so pass through things temporal, that I finally lose not the things eternal: Grant this O heavenly Father, for Jesus Christ's sake our Lord, <hi>Amen.</hi>
+               </p>
+               <p>
+                  <hi>[Ashwednesday.]</hi>
+               </p>
+               <p>ALmighty and everlasting God, who hatest nothing that thou hast made, and dost forgive the sins of all them that are penitent; create and make in me a new and contrite heart, that I worthily lamenting my sins, <hi>(those particularly which I have committed this day in thought, word, or deed)</hi> and acknowledging my wretchedness, may obtain of thee, the God of all mercy, perfect remission and forgiveness, through Jesus Christ our Lord, <hi>Amen.</hi>
+               </p>
+               <pb n="35" facs="tcp:37314:26"/>
+               <p>O God, from whom all holy desires, all good counsels, and all just works do proceed, give unto thy servant that peace which the world cannot give; that both my heart may be set to obey thy Commandments; and also that by thee being defended from the fear of my Enemies, I may pass my time in rest and quietness; through the merits of Jesus Christ my Saviour, <hi>Amen.</hi>
+               </p>
+               <div type="section">
+                  <head>Here follow the proper Collects.</head>
+                  <p>LIghten my Darkness, I beseech thee, O Lord; and by thy great mercy defend me from all perils and dangers of this night, for the love of thy only Son our Saviour Jesus Christ, <hi>Amen.</hi>
+                  </p>
+                  <p>O Lord our Heavenly Father, high and mighty, King of Kings, and Lord of Lords, the only Ruler of Princes, who dost from thy Throne behold all the Dwellers upon Earth; most heartily I beseech thee with thy Favour to behold our most Gracious Sovereign Lord King <hi>JAMES,</hi> and so replenish him with the Grace of thy Holy Spirit, that he may alway incline to thy Will, and walk in thy Way: Endue him plente<g ref="char:EOLhyphen"/>ously with Heavenly Gifts; grant him
+<pb n="36" facs="tcp:37314:27"/> in Health and Wealth long to live; strengthen him that he may vanquish and overcome all his Enemies; and fi<g ref="char:EOLhyphen"/>nally, after this Life, he may attain everlasting Joy and Felicity, through Jesus Christ our Lord, <hi>Amen.</hi>
+                  </p>
+                  <p>ALmighty and everliving God, who hast taught us to make Prayers and Supplications, and to give Thanks for Kings, and all that are in Authority un<g ref="char:EOLhyphen"/>der them; I beseech thee to save and defend thy Servant <hi>JAMES</hi> our King, and Master, his Royal Consort, our gracious Queen <hi>Mary, Katherine</hi> the Queen Dowager, their Royal Highnesses <hi>Mary</hi> Princess of <hi>Orange,</hi> the Princess <hi>Ann</hi> of <hi>Denmark,</hi> and all the Royal Family. Give Grace, O Heavenly Father, unto his whole Coun<g ref="char:EOLhyphen"/>cil, and to all his Officers; more parti<g ref="char:EOLhyphen"/>cularly those under whose Command I am placed, that they may with Prudence, Integrity and Courage, discharge duly the several Trusts reposed in them, to the Safety and Glory of the King and his Kingdom: And for me, and for all my fellow-Soldiers, I most humbly beseech thee to endue us with such Virtues, as may adorn the Profession of Christian Warriours; more particularly, with Loy<g ref="char:EOLhyphen"/>alty, Fortitude, and Temperance, and
+<pb n="37" facs="tcp:37314:27"/> with upright, contented, and charita<g ref="char:EOLhyphen"/>ble Spirits. I pray thee likewise for all Bishops and Curates, and for all Estates of Men in thy Holy Catholick Church, that every Member of the same in his Vocation and Ministry, may truly and di<g ref="char:EOLhyphen"/>ligently serve thee. And I most heartily beseech thee, to comfort and support all thy People in their several necessities and exigencies; and I also bless thy Holy Name, for all those triumphant Souls who have fought a good Fight, and finished their Course; beseeching thee to give me Grace so to follow their good Examples, that with them I may be partaker of thy Heavenly Kingdom. Grant this, O Father, for Jesus Christ his sake, our only Mediator and Advo<g ref="char:EOLhyphen"/>cate, <hi>Amen.</hi>
+                  </p>
+                  <p>ALmighty God, the Fountain of all Wisdom, who knowest my necessities before I ask, and my ignorance in asking; I beseech thee to have compassion upon my infirmities; and those things which for my unworthiness I dare not, and for my blindness I cannot ask, vouchsafe to give me for the worthiness of thy Son, Jesus Christ our Lord, <hi>Amen.</hi>
+                  </p>
+                  <p>
+                     <hi>The Grace of our Lord Jesus Christ, and the Love of God, and the Fellowship of the holy Ghost, be with me now and evermore,</hi> Amen.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="38" facs="tcp:37314:28"/>
+               <head>PROPER COLLECTS ON Special Occasions.</head>
+               <div type="section">
+                  <head>
+                     <hi>In Time of</hi> War.</head>
+                  <p>O Almighty God, King of all Kings, and Governour of all things, whose power no Creature is able to resist; to whom it belongeth justly to punish sin<g ref="char:EOLhyphen"/>ners, and to be merciful to them that truly repent; Save and deliver us, we humbly beseech thee, from the hands of our enemies; abate their pride, asswage their malice, and confound their de<g ref="char:EOLhyphen"/>vices; that we being armed with thy defence, may be preserved evermore from all perils, to glorifie thee who are the only giver of all Victory, through the merits of thy only Son, Jesus Christ our Lord, <hi>Amen.</hi>
+                  </p>
+                  <pb n="39" facs="tcp:37314:28"/>
+                  <p>
+                     <hi>[Publish'd Anno</hi> 1628.]</p>
+                  <p>O God our refuge and strength, who teachest our hands to war, and our fingers to fight, and without whom, the Horse and Chariot is in vain prepared against the day of Battle; Defend us we beseech thee, with thy mighty power, and save us with thine out stretched Arm; that by the glory of thy strength, our Forces may be preserved, and our Armies made Victorious both at Sea and Land; evermore serving under his ban<g ref="char:EOLhyphen"/>ner, who hath led captivity Captive; and as a mighty Conquerour, hath by his Cross, triumphed over his Enemies, even Jesus Christ our Lord; to whom with thee and the holy Ghost, be all honour and glory, world without end, <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>In an Expedition.</head>
+                  <p>[17 <hi>after Trin.]</hi>
+                  </p>
+                  <p>LOrd we pray thee, that thy Grace may always prevent and follow us, through Jesus Christ our Lord, <hi>Amen.</hi>
+                  </p>
+                  <pb n="40" facs="tcp:37314:29"/>
+                  <p>
+                     <hi>[Sexagesima,]</hi>
+                  </p>
+                  <p>O Lord God, who seest that we put not our trust in any thing that we do; mercifully grant, that by thy power we may be defended against all adversi<g ref="char:EOLhyphen"/>ty, through Jesus Christ our Lord, <hi>Amen.</hi>
+                  </p>
+                  <p>O Lord of Hosts, look down in mercy upon us; let thy favourable Counte<g ref="char:EOLhyphen"/>nance be indulgent towards us: &amp; as thou didst protect thy people Israel in their march through <hi>Egypt,</hi> so let thy Angel of light direct us, and defend us from all adversity; grant us we beseech thee, strength, courage, resolution, tempe<g ref="char:EOLhyphen"/>rance, and prosperous successes; that when we return in Victory, we may give the glory of all our Triumphs, to Jesus Christ the mighty Conquerour, who with thee O Father, and the holy Spirit, art one God blessed for ever, <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>When the</hi> King's <hi>Person is in the Army, in time of</hi> War. publish'd <hi>Anno</hi> 43.</head>
+                  <lg>
+                     <l>O Lord guard the Person of thy Servant the King.</l>
+                     <l>
+                        <hi>Who putteth his trust in thee.</hi>
+                     </l>
+                     <l>Send to him, and to his Armies, help from thy holy place.</l>
+                     <pb n="41" facs="tcp:37314:29"/>
+                     <l>
+                        <hi>And evermore mightily defend them.</hi>
+                     </l>
+                     <l>Confound the designs of all those that are risen up against him.</l>
+                     <l>
+                        <hi>And let not their malicious wickedness approach near to hurt him.</hi>
+                     </l>
+                     <l>O Lord hear our prayer.</l>
+                     <l>
+                        <hi>And let our cry come unto thee.</hi>
+                     </l>
+                  </lg>
+                  <p>O Lord God of Hosts, who givest Vi<g ref="char:EOLhyphen"/>ctory unto Kings, and didst deliver <hi>David</hi> thy Servant from the peril of the Sword; hear us, we beseech thee, most miserable sinners, who do here pour out our Souls before thee, entirely desiring the protection of thine hand upon thy Servant, and our sacred Master, the Kings Majesty: Let him find safety under the <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>dow of thy wings, and preserve his person as the apple of thine own Eye. Bless his counsels with Success, and his enterprises with Victory; that he may go on to be a terror to all those that op<g ref="char:EOLhyphen"/>pose him, and to be as the dew of the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ter rain, upon the hearts of all that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ove him: Make him the Author of an <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>onourable and advantagious Peace, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erpetual prosperity to these Nations; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd after a long and prosperous Reign upon Earth, let him triumph with thee in Glory, world without end, <hi>Amen.</hi>
+                  </p>
+                  <pb n="42" facs="tcp:37314:30"/>
+                  <p>O Lord our God, who upholdest and governest all things in Heaven and Earth; receive our humble prayers, with our Thanksgivings, for our Sovereign Lord, <hi>James,</hi> our gracious King and Governour; preserve his Person from all dangers; bind up his Soul in the bundle of life; gird him with strength to the battle; contend with those who contend with him; subdue thou his Enemies under him; and suffer no wea<g ref="char:EOLhyphen"/>pon form'd against him to prosper; give him the shield of thy Salvation, and make him a glorious Conquerour, both now and for evermore, through Jesus Christ our Lord, <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>In a Siege.</head>
+                  <p>[4 <hi>after Epiph.]</hi>
+                  </p>
+                  <p>O God, who knowest us to be set it the midst of so many and great dangers, that by reason of the frailty of our Nature, we cannot always stand up<g ref="char:EOLhyphen"/>right, grant to us such strength and pro<g ref="char:EOLhyphen"/>tection, as may support us in all dangers, and carry us through all temptations through Jesus Christ our Lord, <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="43" facs="tcp:37314:30"/>
+                  <head>A Prayer to be used by the besieged.</head>
+                  <p>O God, the refuge of all that fly to thee for Succour, look down in com<g ref="char:EOLhyphen"/>passion upon our present necessities; thou art the Lord of Hosts, and the strength of all Nations; if thou keepest not the City, the Watchmen wake but in vain: Save us, we beseech thee O Lord, and de<g ref="char:EOLhyphen"/>fend us from the designs of our Enemies: endue our Governour with wisdom, our Officers with bravery, our Soldiers with courage, our Labourers with strength, and all the Garrison with Noble Resolu<g ref="char:EOLhyphen"/>tion; support the weary, comfort the afflicted, and translate those that shall here finish their course, into the heaven<g ref="char:EOLhyphen"/>ly <hi>Jerusalem:</hi> continue to preserve this place in the hands of thine Anointed, and turn back our Enemies with shame and confusion; so shall we for ever praise thy name O Jesu, who with the Father and the holy Spirit, art one God blessed for ever, <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Before a Battle.</head>
+                  <p>THou O Lord art just and powerful, O defend our cause against the face of the enemy; O God, thou art a strong
+<pb n="44" facs="tcp:37314:31"/> Tower of defence to all that flee unto thee; O save us from the violence of the Enemy.</p>
+                  <p>O Lord of hosts fight for us, that we may glorifie thee: O suffer us not to sink under the weight of our sins, or the violence of the Enemy.</p>
+                  <p>O Lord arise, help us, and deliver us, for thy name's sake.</p>
+                  <p>O Most glorious and powerful Lord God, the Lord of Hosts, that rulest and commandest all things; thou sit<g ref="char:EOLhyphen"/>test in the Throne judging right, and therefore we make our Addresses to thy Divine Majesty in this our necessity; that thou wouldst take the cause into thine own hand, and judge between us and our Enemies. Stir up thy strength, O Lord, and come and help us, for thou givest not alway the Battle to the strong, but canst save by many or by few. O let not our sins now cry against us for vengeance, but hear us, thy poor ser<g ref="char:EOLhyphen"/>vants, begging mercy, and imploring thy help, and that thou wouldst be a defence unto us against the face of the Enemy: make it appear thou art our Saviour and mighty Deliverer, through Jesus Christ our Lord, <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="45" facs="tcp:37314:31"/>
+                  <head>A more particular Application.</head>
+                  <p>O Lord God, in whose hand are the issues of Life and Death; we most humbly beseech thee to have mercy up<g ref="char:EOLhyphen"/>on us; Arise, O God, help us and de<g ref="char:EOLhyphen"/>liver us for thine honour; strengthen <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, that we may stand fast, and acquit our selves like men; call not our sins to remembrance, O God, but be reconciled <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>to us, through the Merits of the bles<g ref="char:EOLhyphen"/>sed Jesus, that whether we live or die, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e may be thine: Spare us, O Lord, spare <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, if it be thy blessed will; if other<g ref="char:EOLhyphen"/>wise, let Death be swallowed up in Vi<g ref="char:EOLhyphen"/>ctory both temporal and eternal.</p>
+                  <p>Inspire us, O God, with noble resolu<g ref="char:EOLhyphen"/>tions to prefer a glorious danger, before a shameful flight; and let us never be branded with those ugly sins of cowar<g ref="char:EOLhyphen"/>dise in the face of an Enemy, or ingra<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>itude to our Royal <hi>Master</hi> (who hath so long maintained us) but strengthen our hands, inflame our hearts, and con<g ref="char:EOLhyphen"/>duct us by thy Divine Providence to prosperous successes: And let thy Bene<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iction be upon us now and ever, for <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he sake of Jesus Christ our Mediator <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d Advocate, <hi>Amen.</hi>
+                  </p>
+                  <p>
+                     <hi>[Here let the Soldier vow to God amend<g ref="char:EOLhyphen"/>ment of Life, and some extraordinary act of Charity.]</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="46" facs="tcp:37314:32"/>
+                  <head>In Sickness.</head>
+                  <p>O Merciful and righteous Lord, the God of health and of sickness, of life and of death; I most unfeignedly ac<g ref="char:EOLhyphen"/>knowledge that my great abuse of those many days of strength and welfare which thou hast afforded me, hath most justly deserv'd thy present visitation. I desire, O Lord, humbly to accept of this punishment of mine iniquity, and to bear the indignation of the Lord, be<g ref="char:EOLhyphen"/>cause I have sinned against him. And, O thou merciful Father, who designest not the ruin, but the amendment of those whom thou scourgest, I beseech thee by thy Grace so to sanctifie this correcti<g ref="char:EOLhyphen"/>on of thine to me, that this sickness of my body may be a means of health to my Soul: Make me diligent to search my Heart: And do thou, O Lord, ena<g ref="char:EOLhyphen"/>ble me to discover every accursed thing, how closely soever concealed there, that by the removal thereof, I may make way for the removal of this pu<g ref="char:EOLhyphen"/>nishment. Heal my Soul, O Lord, which hath sinned against thee; and then if it be thy blessed will, heal my body also:
+<pb n="47" facs="tcp:37314:32"/> restore the voice of joy and health un<g ref="char:EOLhyphen"/>to my dwelling, that I may live to praise thee, and to bring forth fruits of Repen<g ref="char:EOLhyphen"/>tance. But if in thy wisdom thou hast otherwise disposed; if thou hast de<g ref="char:EOLhyphen"/>termined that this sickness shall be unto <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eath, I beseech thee to fit and prepare <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e for it; give me that sincere and ear<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>est repentance to which thou hast pro<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ised mercy and pardon: Wean my <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>art from the World and all its fading <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>nities, and make me to gasp and pant <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ter those more excellent and durable <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oys which are at thy right hand for ever. Lord lift thou up the light of thy counte<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>nce upon me, and in all the pains of my <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ody, in all the agonies of my Spirit, let <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y comforts refresh my Soul, and enable <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e patiently to wait till my change come. <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d grant, O Lord, that when my earthly <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ouse of this tabernacle is dissolved, I may <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ve a building of God, an house not made <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ith hands, eternal in the Heavens; and <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>at for his sake, who by his precious <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ood hath purchased it for me, even <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>esus Christ, <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>In any publick Calamity.</head>
+                  <p>O Lord we beseech thee favourably to hear the Prayers of thy People, that
+<pb n="48" facs="tcp:37314:33"/> we who are justly punished for our Of<g ref="char:EOLhyphen"/>fences, may be mercifully delivered by thy goodness, for the glory of thy name, through Jesus Christ our Saviour, who liveth and reigneth with thee and the Holy Ghost, ever one God, world with<g ref="char:EOLhyphen"/>out end, <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>A General Thanksgiving.</head>
+                  <p>ALmighty God, Father of all mercies, we thine unworthy Servants, do give thee most humble and hearty thanks for all thy goodness and loving<g ref="char:EOLhyphen"/>kindness to us, and to all men; we bless thee for our Creation, Preservation, and all the blessings of this life; but above all, for thine inestimable Love, in the redemption of the world by ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Lord Jesus Christ, for the means of Grace, and for the hope of Glory; and we beseech the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e, give us that due sense of all thy mercies, that our hearts may be unfeignedly thankful, and that we may shew forth thy praise, not only with our lips, but in our lives, by giving up our selves to thy Service, and by walking before thee in holiness and righteousness all our days, through Jesus Christ ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <pb n="49" facs="tcp:37314:33"/> Lord; to whom with thee and the holy Ghost, be all honour and glory, world without end, <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>The Office after Victory, or De<g ref="char:EOLhyphen"/>liverance from an Enemy.</hi> [In the Sea Service.]</head>
+                  <head type="sub">
+                     <hi>A Psalm or Hymn of Praise and Thanks<g ref="char:EOLhyphen"/>giving after Victory.</hi>
+                  </head>
+                  <p>IF the Lord had not been on our side, now may we say; if the Lord him<g ref="char:EOLhyphen"/>self had not been on our side, when men <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ose up against us.</p>
+                  <p>They had swallowed us up quick; when they were so wrathfully displeased <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t us.</p>
+                  <p>Yea, the waters had drowned us, and the stream had gone over our Soul: the deep Waters of the proud had gone over our Soul.</p>
+                  <p>But praised be the Lord, who hath <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ot given us over as a prey unto them.</p>
+                  <p>The Lord hath wrought a mighty Sal<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ation for us.</p>
+                  <p>We gat not this by our own Sword, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ither was it our own Arm that saved
+<pb n="50" facs="tcp:37314:34"/> us; but thy right hand, and thine Arm, and the light of thy countenance, because thou hadst a favour unto us.</p>
+                  <p>The Lord hath appeared for us; the Lord hath overthrown our▪ Enemies, and dashed in pieces those that rose up a<g ref="char:EOLhyphen"/>gainst us.</p>
+                  <p>Therefore not unto us, O Lord, not unto us, but unto thy name be given the glory.</p>
+                  <p>The Lord hath done great things for us; the Lord hath done great things for us, for which we rejoyce.</p>
+                  <p>Our help standeth in the name of the Lord, who hath made Heaven and Eart<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</p>
+                  <p>Blessed be the name of the Lord, fro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>his time forth for evermore.</p>
+                  <p>Glory be to the Father, and to the Son, and to the Holy Ghost.</p>
+                  <p>As it was in the beginning, is now, and ever shall be, World without end, <hi>Amen.</hi>
+                  </p>
+                  <p>¶ <hi>After this Hymn may be sung the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </hi> Deum.</p>
+               </div>
+               <div type="section">
+                  <head>Then this Collect.</head>
+                  <p>O Almighty God, the Sovereign Com<g ref="char:EOLhyphen"/>mander of all the World, in wh<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> hand is power and might, which <gap reason="illegible" resp="#keyers" extent="2 words">
+                        <desc>〈◊◊〉</desc>
+                     </gap> able to withstand; We bless and <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ni<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e
+<pb n="51" facs="tcp:37314:34"/> thy great and glorious Name for this happy Victory, the whole Glory whereof we do ascribe to thee, who art the only giver of Victory. And we be<g ref="char:EOLhyphen"/>seech thee, give us Grace to improve this great mercy to thy Glory, the advance<g ref="char:EOLhyphen"/>ment of thy Gospel, the Honour of our Soveraign, and as much as in us lyeth, to the good of all Mankind. And we be<g ref="char:EOLhyphen"/>seech thee give us such a sense of this great mercy, as may engage us to a true thankfulness, such as may appear in our lives by an humble, holy, and obedient walking before thee all our days, through Jesus Christ our Lord, to whom, with thee, and the Holy Spirit, as for all thy mercies, so in particular for this Victory and Deliverance, be all Glory and Honour, World without end, <hi>Amen.</hi>
+                  </p>
+                  <epigraph>
+                     <bibl>2 Cor. 13. 14.</bibl>
+                     <q>
+                        <hi>The Grace of our Lord Jesus Christ, and the love of God, and the Fellowship of the H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ly Ghost, be with us all evermore,</hi> Amen.</q>
+                  </epigraph>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
